@@ -56,11 +56,11 @@ class Main:
         print(Font.Color.WHITE + u)
         print(Font.Color.GREEN + text
               +
-              Font.Color.WHITE + "| A COMPLETE OSINT TOOL:)      " + Font.Color.BANNER + "CODED BY LUCKSI" + Font.Color.RESET + Font.Color.WHITE + "                      |\n|                                                                   |")
+              Font.Color.WHITE + "| A COMPLETE TOOL:)      " + Font.Color.BANNER + "WELCOME" + Font.Color.RESET + Font.Color.WHITE + "                      |\n|                                                                   |")
         print(Font.Color.WHITE + "|[+]" + Font.Color.GREEN + "VERSION:" + version +
               Font.Color.WHITE + "                                             |")
         print(
-            Font.Color.YELLOW + "|Instagram:lucks_022                                                |\n|Email:lukege287@gmail.com                                          |\n|GitHub:Lucksi                                                      |\n|Twitter:@Lucksi_22                                                 |\n|Linkedin:https://www.linkedin.com/in/Lucksi                        |")
+            Font.Color.YELLOW + "|Instagram:programmer.pedia                                                |\n|Email:sisecdev@gmail.com                                          |\n|GitHub:sisec                                                      |\n|Twitter:@Lucksi_22                                                 |\n|Linkedin:https://www.linkedin.com/in/Lucksi                        |")
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
 
@@ -83,7 +83,7 @@ class Main:
         print(Font.Color.WHITE + "\n[+]" +
               Font.Color.GREEN + "VERSION:" + version)
         print(
-            Font.Color.YELLOW + "Instagram:lucks_022\nEMAIL:lukege287@gmail.com\nGIT-HUB:Lucksi\nTwitter:@Lucksi_22\nLinkedin:https://www.linkedin.com/in/Lucksi\n")
+            Font.Color.YELLOW + "Instagram:programmer.pedia\nEMAIL:sisecdev@gmail.com\nGIT-HUB:sisec\nTwitter:@sisec_80\nLinkedin:https://www.linkedin.com/in/sisec\n")
 
     @staticmethod
     def main(Mode):
