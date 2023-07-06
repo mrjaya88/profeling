@@ -56,7 +56,7 @@ class Main:
         print(Font.Color.WHITE + "|[+]" + Font.Color.GREEN + "VERSION:" + version +
               Font.Color.WHITE + "                                             |")
         print(
-            Font.Color.YELLOW + "|Instagram:programmer.pedia                                                |\n|Email:sisecdev@gmail.com                                          |\n|GitHub:sisec                                                      |\n|Twitter:@Lucksi_22                                                 |\n|Linkedin:https://www.linkedin.com/in/Lucksi                        |")
+            Font.Color.YELLOW + "|Instagram:programmer.pedia                                                |\n|Email:sisecdev@gmail.com                                          |\n|GitHub:sisec                                                      |\n|Twitter:@Sisec                                                 |\n|Linkedin:https://www.linkedin.com/in/Lucksi                        |")
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
 
