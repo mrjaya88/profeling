@@ -76,8 +76,6 @@ class Main:
               Font.Color.BANNER + "WELCOME" + Font.Color.RESET)
         print(Font.Color.WHITE + "\n[+]" +
               Font.Color.GREEN + "VERSION:" + version)
-        print(
-            Font.Color.YELLOW + "Instagram:programmer.pedia\nEMAIL:sisecdev@gmail.com\nGIT-HUB:sisec\nTwitter:@sisec_80\nLinkedin:https://www.linkedin.com/in/sisec\n")
 
     @staticmethod
     def main(Mode):
