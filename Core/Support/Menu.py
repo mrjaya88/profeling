@@ -54,9 +54,7 @@ class Main:
               +
               Font.Color.WHITE + "| A COMPLETE TOOL:)      " + Font.Color.BANNER + "WELCOME" + Font.Color.RESET + Font.Color.WHITE + "                      |\n|                                                                   |")
         print(Font.Color.WHITE + "|[+]" + Font.Color.GREEN + "VERSION:" + version +
-              Font.Color.WHITE + "                                             |")
-        print(
-            Font.Color.YELLOW + "|Instagram:programmer.pedia                                                |\n|Email:sisecdev@gmail.com                                          |\n|GitHub:sisec                                                      |\n|Twitter:@Sisec                                                 |\n|Linkedin:https://www.linkedin.com/in/Lucksi                        |")
+              Font.Color.WHITE + "                                             |")             
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
 
