@@ -46,7 +46,7 @@ class Main:
         f = open("Quotes/" + choice, "r", newline=None)
         text = f.read()
         f.close()
-        u = "|\t\t\t    MR.HOLMES\t\t\t\t    |"
+        u = "|\t\t\t    SECTOOLS\t\t\t\t    |"
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
         print(Font.Color.WHITE + u)
