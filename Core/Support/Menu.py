@@ -78,8 +78,8 @@ class Main:
         text = f.read()
         f.close()
         print(Font.Color.GREEN + text)
-        print(Font.Color.WHITE + "A COMPLETE OSINT TOOL:)      " +
-              Font.Color.BANNER + "CODED BY LUCKSI" + Font.Color.RESET)
+        print(Font.Color.WHITE + "A COMPLETE TOOL:)      " +
+              Font.Color.BANNER + "WELCOME" + Font.Color.RESET)
         print(Font.Color.WHITE + "\n[+]" +
               Font.Color.GREEN + "VERSION:" + version)
         print(
