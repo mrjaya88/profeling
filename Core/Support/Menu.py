@@ -1,6 +1,6 @@
 # ORIGINAL CREATOR: mrsisec
 # AUTHOR: mrsisec
-# Copyright (C) 2021-2023 Lucksi <sisecdev@gmail.com>
+# Copyright (C) 2021-2023 Sisec <sisecdev@gmail.com>
 # License: GNU General Public License v3.0
 
 import os
