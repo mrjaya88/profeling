@@ -1,6 +1,6 @@
-# ORIGINAL CREATOR: mrsisec
-# AUTHOR: mrsisec
-# Copyright (C) 2021-2023 Sisec <sisecdev@gmail.com>
+# ORIGINAL CREATOR: Luca Garofalo (Lucksi)
+# AUTHOR: Luca Garofalo (Lucksi)
+# Copyright (C) 2021-2023 Lucksi <lukege287@gmail.com>
 # License: GNU General Public License v3.0
 
 import os
@@ -46,15 +46,17 @@ class Main:
         f = open("Quotes/" + choice, "r", newline=None)
         text = f.read()
         f.close()
-        u = "|\t\t\t    SECTOOLS\t\t\t\t    |"
+        u = "|\t\t\t    TSEC\t\t\t\t    |"
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
         print(Font.Color.WHITE + u)
         print(Font.Color.GREEN + text
               +
-              Font.Color.WHITE + "| A COMPLETE TOOL:)      " + Font.Color.BANNER + "WELCOME" + Font.Color.RESET + Font.Color.WHITE + "                      |\n|                                                                   |")
+              Font.Color.WHITE + "| A COMPLETE TSEC TOOL:)      " + Font.Color.BANNER + "WELCOME" + Font.Color.RESET + Font.Color.WHITE + "                      |\n|                                                                   |")
         print(Font.Color.WHITE + "|[+]" + Font.Color.GREEN + "VERSION:" + version +
-              Font.Color.WHITE + "                                             |")             
+              Font.Color.WHITE + "                                             |")
+        print(
+            Font.Color.YELLOW + "")
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
 
@@ -72,10 +74,12 @@ class Main:
         text = f.read()
         f.close()
         print(Font.Color.GREEN + text)
-        print(Font.Color.WHITE + "A COMPLETE TOOL:)      " +
-              Font.Color.BANNER + "WELCOME" + Font.Color.RESET)
+        print(Font.Color.WHITE + "A COMPLETE TSEC TOOL:)      " +
+              Font.Color.BANNER + "WELCOME TSEC" + Font.Color.RESET)
         print(Font.Color.WHITE + "\n[+]" +
               Font.Color.GREEN + "VERSION:" + version)
+        print(
+            Font.Color.YELLOW + "")
 
     @staticmethod
     def main(Mode):
