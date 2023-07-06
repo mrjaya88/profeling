@@ -1,9 +1,3 @@
-|     ,_                                                            |
-|   ,'  `\,_        ___________________________________________     |
-|   |_,-'_)        / If you eliminate all other possibilities |     |
-|   /##c '\  (    /  the one that remains, however unlikely,  |     |
-|   ' |'  -{.  ) /   is the right answer.                     |     |
-|   /\__-' \[]   |   Elementary my dear Watson.               |     |
-|   /`-_`\       |____________________________________________|     |
-|   '     \                                                         |
-|                                                                   |
+|     ,_                                                            
+|   ,'  `\,_        ________________________________________    
+|   |_,-'_)         Alat yang membantu pengumpulan informasi       
