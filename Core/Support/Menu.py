@@ -41,11 +41,7 @@ class Main:
             r = line.replace("\n", "")
         version = f.read() + r
         f.close()
-        Quotes = ["Quotes1.txt", "Quotes4.txt", "Quotes3.txt", "Quotes7.txt",
-                  "Quotes6.txt", "Quotes2.txt", "Quotes5.txt", "Quotes8.txt",
-                  "Quotes9.txt", "Quotes10.txt", "Quotes11.txt", "Quotes12.txt",
-                  "Quotes13.txt", "Quotes14.txt", "Quotes15.txt", "Quotes16.txt",
-                  "Quotes17.txt", "Quotes18.txt", "Quotes19.txt", "Quotes20.txt"]
+        Quotes = ["Quotes1.txt"]
         choice = random.choice(Quotes)
         f = open("Quotes/" + choice, "r", newline=None)
         text = f.read()
